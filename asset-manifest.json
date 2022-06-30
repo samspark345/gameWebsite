@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gameWebsite/static/css/main.386c9643.css",
+    "main.js": "/gameWebsite/static/js/main.e1962c1d.js",
+    "static/media/website_bg.png": "/gameWebsite/static/media/website_bg.b43dc2aa7d688aced3b4.png",
+    "static/media/omen_val.png": "/gameWebsite/static/media/omen_val.92573fbe7cac0d727e45.png",
+    "index.html": "/gameWebsite/index.html",
+    "main.386c9643.css.map": "/gameWebsite/static/css/main.386c9643.css.map",
+    "main.e1962c1d.js.map": "/gameWebsite/static/js/main.e1962c1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.386c9643.css",
+    "static/js/main.e1962c1d.js"
+  ]
+}
